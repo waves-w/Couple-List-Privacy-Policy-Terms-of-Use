@@ -10,7 +10,7 @@ We follow the principle of data minimization and collect only what is essential 
 - **Camera:** Used solely for taking a real-time photo to set as your profile picture.
 - **Photo Library / Storage:** To provide synchronization, we collect and store your To-Do lists (tasks, status), Anniversaries, and Reminders in a secure cloud database (Firebase).
 - **Notifications:** Used for sending important alerts, such as anniversary reminders or task updates from your partner.
-- **We do not** collect government IDs, financial information, precise geolocation, or contacts.
+**We do not** collect government IDs, financial information, precise geolocation, or contacts.
 
 ## Legal Basis for Processing (GDPR)
 Under GDPR, we process your data based on:
@@ -30,7 +30,7 @@ Under GDPR, we process your data based on:
 - **Maintenance & Security:** Debugging, optimizing the user experience, and preventing unauthorized access to your private shared space.
 
 ## Data Sharing and Disclosure
-With Your Partner: Your To-Do lists, Anniversaries, Profile Pictures, and any Shared Images are explicitly synchronized and shared with the user you have linked via the unique 8-digit pairing code.
+  **With Your Partner:** Your To-Do lists, Anniversaries, Profile Pictures, and any Shared Images are explicitly synchronized and shared with the user you have linked via the unique 8-digit pairing code.
 
 - **Service Providers:** We use trusted third-party services (Google Firebase) to host, store, and synchronize your data. Firebase is bound by data processing agreements to protect your information and complies with international security standards.
 
