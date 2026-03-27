@@ -74,4 +74,3 @@ We may update this policy periodically. We will notify you of material changes v
 ## Contact Us
 If you have any questions or wish to exercise your privacy rights, please contact us:
 **Email:** feedback@omicost.cn
-<div style="height: 2px; width: 100%; background-color: #4CAF50; margin-top: 20px;"></div>
