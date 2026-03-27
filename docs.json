@@ -1,6 +1,10 @@
 {
   "name": "Privacy Policy",
-  "navigation": [],
+  "navigation": [
+    {
+      "path": "/privacy"
+    }
+  ],
   "hideEditButton": true,
   "logo": false,
   "footer": false
