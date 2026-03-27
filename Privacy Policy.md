@@ -1,4 +1,3 @@
-# Privacy Policy
 
 ## Introduction
 
@@ -12,7 +11,9 @@ We follow the principle of data minimization and collect only what is essential 
 - User-Generated Content: To provide synchronization, we collect and store your To-Do lists (tasks, status), Anniversaries, and Reminders in a secure cloud database (Firebase).
 - Notification Tokens: With your permission, we collect device tokens to send alerts for shared task completions or anniversary reminders.
 - Technical & Usage Data: Device model, OS version, and crash logs (e.g., via Firebase Crashlytics) to improve app stability.
-We do not collect government IDs, financial information, precise geolocation, or contacts.
+
+- **We do not **collect government IDs, financial information, precise geolocation, or contacts.
+
 ## Permissions We Use
 Our app may request access to:
 - **Camera**: for taking photos or scanning QR codes
