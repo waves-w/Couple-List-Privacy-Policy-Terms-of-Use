@@ -1,26 +1,55 @@
-# Terms of Use
 
-Last Updated: March 27, 2026
+##Introduction
 
-Welcome to our application. By accessing or using our service, you agree to be bound by these terms.
+This User Agreement (“Agreement”) is a legally binding contract between you (the “User”) and the provider of Couple-list (“we” or “us”). Please read this Agreement carefully before using the app. By downloading, installing, or using any part of Couple-list, you agree to be bound by all terms and conditions herein. If you do not agree, do not use the app.
 
-## 1. Acceptable Use
-You agree not to use the app for any unlawful purposes or to conduct any activity that harms our service.
+Age Requirement: You represent that you are at least 18 years old (or the age of majority in your jurisdiction). If you are below the required age, you may only use the app with the explicit consent and supervision of a parent or legal guardian.
 
-## 2. Intellectual Property
-All content, features, and functionality are and will remain the exclusive property of the developer.
+##User Rights and Obligations
 
-## 3. User Accounts
-When you create an account, you must provide accurate and complete information.
+**License to Use:** We grant you a personal, non-transferable, non-exclusive license to use Couple-list for non-commercial purposes.
 
-## 4. Limitation of Liability
-We shall not be liable for any indirect, incidental, or consequential damages resulting from your use of the service.
+**Service Description:** Couple-list provides a shared digital space for two users to synchronize To-Do lists, complete tasks, and manage anniversary reminders via a unique pairing code.
 
-## 5. Termination
-We may terminate or suspend your access immediately, without prior notice, for any reason whatsoever.
+**Accuracy of Information:** You agree that any information you provide (e.g., anniversary dates, task descriptions) is accurate. You are responsible for the devices and internet connectivity (e.g., via Firebase) required to sync data.
 
-## 6. Changes to Terms
-We reserve the right to modify these terms at any time. We will notify you of any changes by posting the new terms on this page.
+##Shared Data & Pairing Security
+**Pairing Mechanism:** To use the core features, you must link with another user via an 8-digit code. You are solely responsible for keeping this code secure. Anyone with this code can access your shared lists.
 
-## 7. Contact Us
-If you have any questions about these Terms, please contact us at: your-email@example.com
+**Shared Responsibility:** By pairing, you acknowledge that all content (To-Dos and Anniversaries) will be visible and editable by the linked user. We are not liable for disputes between paired users regarding deleted or modified data.
+
+##Prohibited Conduct
+
+You agree not to engage in the following:
+
+- **Illegal Content:** Using the app to store or transmit illegal, harmful, violent, or infringing content, including using the camera feature for unlawful purposes.
+
+- **Malicious Interference:** Introducing viruses or malware that disrupts the synchronization service or attempting unauthorized access to our cloud databases.
+
+- **Reverse Engineering:** Attempting to derive the source code of Couple-list or using the app for unauthorized commercial purposes.
+
+## Service Content and Changes
+
+- **Modifications:** We may update or remove features to improve the user experience or comply with legal requirements.
+
+- **Suspension:** We reserve the right to suspend services (e.g., for maintenance or breach of terms). You may terminate this agreement at any time by uninstalling the app and unlinking your account.
+
+##Disclaimers and Limitation of Liability
+
+- **No Guarantees:** Couple-list is provided “as is” and “as available.” While we strive for 100% sync reliability, we do not warrant that the service will be uninterrupted or error-free.
+
+- **Use at Your Own Risk:** We are not responsible for missed deadlines or forgotten anniversaries due to technical failures, notification delays, or data loss.
+
+- **Limitation of Liability:** To the maximum extent permitted by law, we are not liable for any indirect or incidental damages arising from your use of the app. Our total liability is limited to the amount you paid for the service in the last 12 months (or zero if the app was free).
+
+##Governing Law
+
+This Agreement is governed by the laws of your jurisdiction. Disputes should first be resolved through good-faith negotiation. If a resolution cannot be reached, disputes may be submitted to a court of competent jurisdiction in the developer's location.
+
+##Contact Us
+
+If you have questions regarding these terms, please contact:
+
+- Email: **feedback@omicost.cn**
+
+Last Updated: January 23, 2026
