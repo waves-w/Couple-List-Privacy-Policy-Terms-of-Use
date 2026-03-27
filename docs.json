@@ -17,5 +17,9 @@
             "Terms of Use"
         ]
     },
+    
+    "search": {
+        "display": "none"
+      },
     "hideEditButton": true
 }
