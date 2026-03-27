@@ -1,20 +1,20 @@
 {
-  "name": "Couple-list",
-  "logo": {
-    "light": "/logo.png",
-    "dark": "/logo.png"
-  },
-  "theme": "mint",
-  "colors": {
-    "primary": "#FF2D55",
-    "light": "#FFF0F3",
-    "dark": "#1C1C1E"
-  },
-  "navigation": {
-    "pages": [
-      "Privacy Policy",
-      "Terms of Use"
-    ]
-  },
-  "hideEditButton": true
+    "name": "Couple-list",
+    "logo": {
+        "light": "/images/logo.png",
+        "dark": "/images/logo.png"
+    },
+    "theme": "mint",
+    "colors": {
+        "primary": "#FF2D55",
+        "light": "#FFF0F3",
+        "dark": "#1C1C1E"
+    },
+    "navigation": {
+        "pages": [
+            "Privacy Policy",
+            "Terms of Use"
+        ]
+    },
+    "hideEditButton": true
 }
