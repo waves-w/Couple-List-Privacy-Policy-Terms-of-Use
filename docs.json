@@ -1,8 +1,8 @@
 {
   "name": "Couple-list",
   "logo": {
-    "light": "/images/logo.png",
-    "dark": "/images/logo.png"
+    "light": "logo.png",
+    "dark": "logo.png"
   },
   "theme": "mint",
   "colors": {
