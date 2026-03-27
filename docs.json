@@ -4,6 +4,7 @@
         "light": "/images/logo.png",
         "dark": "/images/logo.png"
     },
+    "favicon": "/images/logo.png",
     "theme": "mint",
     "colors": {
         "primary": "#FF2D55",
