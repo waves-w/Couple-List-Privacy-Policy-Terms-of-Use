@@ -14,7 +14,7 @@ We follow the principle of data minimization and collect only what is essential 
 
 - **We do not **collect government IDs, financial information, precise geolocation, or contacts.
 
-## 3. Legal Basis for Processing (GDPR)
+## Legal Basis for Processing (GDPR)
 Under GDPR, we process your data based on:
 - **Contractual Necessity:** To provide core features including real-time sync, task sharing, and linking devices via pairing codes.
 - **Consent:** For accessing your **Camera, Storage, Location**, and sending **Push Notifications**. You can withdraw consent at any time via your device settings.
@@ -43,7 +43,7 @@ Under GDPR, we process your data based on:
 ## International Data Transfers
 Your data may be stored on servers located outside of your home country (e.g., in the United States via Firebase). We ensure such transfers comply with legal frameworks like Standard Contractual Clauses (SCCs) to maintain a high level of protection.
 
-##Your Rights
+## Your Rights
 
 - Depending on your location, you have the following rights:
 
@@ -59,18 +59,18 @@ Your data may be stored on servers located outside of your home country (e.g., i
 
 To exercise these rights, please contact us at the email below.
 
-##Data Retention and Security
+## Data Retention and Security
 
 **Retention:** We keep your data as long as your account is active. If you delete your account, we will purge or anonymize your data within 30 days.
 
 **Security:** We use industry-standard encryption (SSL/TLS) for data in transit and at rest. Please keep your pairing code private to prevent unauthorized linking.
 
-##Children's Privacy
+## Children's Privacy
 Couple-list is not intended for children under the age of 13 (or 16 in certain EU jurisdictions). If we learn we have collected data from a child without parental consent, we will delete it immediately.
 
-##Changes to This Policy
+## Changes to This Policy
 We may update this policy periodically. We will notify you of material changes via an in-app notice or by updating the "Last Updated" date.
 
-##Contact Us
+## Contact Us
 If you have any questions or wish to exercise your privacy rights, please contact us:
 Email: [feedback@omicost.cn]
