@@ -1,8 +1,8 @@
 {
   "name": "Couple-list",
   "logo": {
-    "light": "logo.png",
-    "dark": "logo.png"
+    "light": "/logo.png",
+    "dark": "/logo.png"
   },
   "theme": "mint",
   "colors": {
@@ -12,8 +12,8 @@
   },
   "navigation": {
     "pages": [
-      "Privacy Policy",
-      "Terms of Use"
+      "privacy",
+      "terms"
     ]
   },
   "hideEditButton": true
