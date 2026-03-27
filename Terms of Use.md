@@ -1,11 +1,11 @@
 
-##Introduction
+## Introduction
 
 This User Agreement (“Agreement”) is a legally binding contract between you (the “User”) and the provider of Couple-list (“we” or “us”). Please read this Agreement carefully before using the app. By downloading, installing, or using any part of Couple-list, you agree to be bound by all terms and conditions herein. If you do not agree, do not use the app.
 
 Age Requirement: You represent that you are at least 18 years old (or the age of majority in your jurisdiction). If you are below the required age, you may only use the app with the explicit consent and supervision of a parent or legal guardian.
 
-##User Rights and Obligations
+## User Rights and Obligations
 
 **License to Use:** We grant you a personal, non-transferable, non-exclusive license to use Couple-list for non-commercial purposes.
 
@@ -18,7 +18,7 @@ Age Requirement: You represent that you are at least 18 years old (or the age of
 
 **Shared Responsibility:** By pairing, you acknowledge that all content (To-Dos and Anniversaries) will be visible and editable by the linked user. We are not liable for disputes between paired users regarding deleted or modified data.
 
-##Prohibited Conduct
+## Prohibited Conduct
 
 You agree not to engage in the following:
 
@@ -34,7 +34,7 @@ You agree not to engage in the following:
 
 - **Suspension:** We reserve the right to suspend services (e.g., for maintenance or breach of terms). You may terminate this agreement at any time by uninstalling the app and unlinking your account.
 
-##Disclaimers and Limitation of Liability
+## Disclaimers and Limitation of Liability
 
 - **No Guarantees:** Couple-list is provided “as is” and “as available.” While we strive for 100% sync reliability, we do not warrant that the service will be uninterrupted or error-free.
 
@@ -42,11 +42,11 @@ You agree not to engage in the following:
 
 - **Limitation of Liability:** To the maximum extent permitted by law, we are not liable for any indirect or incidental damages arising from your use of the app. Our total liability is limited to the amount you paid for the service in the last 12 months (or zero if the app was free).
 
-##Governing Law
+## Governing Law
 
 This Agreement is governed by the laws of your jurisdiction. Disputes should first be resolved through good-faith negotiation. If a resolution cannot be reached, disputes may be submitted to a court of competent jurisdiction in the developer's location.
 
-##Contact Us
+## Contact Us
 
 If you have questions regarding these terms, please contact:
 
