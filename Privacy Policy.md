@@ -73,4 +73,4 @@ We may update this policy periodically. We will notify you of material changes v
 
 ##Contact Us
 If you have any questions or wish to exercise your privacy rights, please contact us:
-Email: [你的联系邮箱]
+Email: [feedback@omicost.cn]

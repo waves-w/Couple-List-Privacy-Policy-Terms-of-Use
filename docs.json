@@ -1,15 +1,19 @@
 {
-  "name": "Legal Documents",
+  "name": "Couple-list",
+  "logo": {
+    "light": "/images/logo.png",
+    "dark": "/images/logo.png"
+  },
   "theme": "mint",
   "colors": {
-    "primary": "#007AFF",
-    "light": "#F2F2F7",
+    "primary": "#FF2D55",
+    "light": "#FFF0F3",
     "dark": "#1C1C1E"
   },
   "navigation": {
     "pages": [
-      "Privacy Policy",
-      "Terms of Use"
+      "privacy",
+      "terms"
     ]
   },
   "hideEditButton": true
