@@ -7,10 +7,10 @@ By using Couple-list, you agree to the collection and use of information in acco
 
 ## Data We Collect
 We follow the principle of data minimization and collect only what is essential for the app's functionality:
-- Account & Pairing Data: To link two users, we generate a unique 8-digit pairing code. We store this connection to enable shared access.
-- User-Generated Content: To provide synchronization, we collect and store your To-Do lists (tasks, status), Anniversaries, and Reminders in a secure cloud database (Firebase).
-- Notification Tokens: With your permission, we collect device tokens to send alerts for shared task completions or anniversary reminders.
-- Technical & Usage Data: Device model, OS version, and crash logs (e.g., via Firebase Crashlytics) to improve app stability.
+- **Account & Pairing Data:** To link two users, we generate a unique 8-digit pairing code. We store this connection to enable shared access.
+- **User-Generated Content:** To provide synchronization, we collect and store your To-Do lists (tasks, status), Anniversaries, and Reminders in a secure cloud database (Firebase).
+- **Notification Tokens:** With your permission, we collect device tokens to send alerts for shared task completions or anniversary reminders.
+- **Technical & Usage Data:** Device model, OS version, and crash logs (e.g., via Firebase Crashlytics) to improve app stability.
 
 - **We do not **collect government IDs, financial information, precise geolocation, or contacts.
 
@@ -25,7 +25,7 @@ Under GDPR, we process your data based on:
 
 **Notifications:** Alerting you and your partner about upcoming anniversaries, urgent tasks, or updates made by your partner.
 
-**Location-Based Services:**Providing location-specific reminders (e.g., alerting you of a task when you arrive at a specific place).
+**Location-Based Services:** Providing location-specific reminders (e.g., alerting you of a task when you arrive at a specific place).
 
 **Media & Scanning:** Using the camera to scan pairing codes for easy linking and accessing storage to save or upload shared images.
 
