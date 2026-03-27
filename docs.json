@@ -7,11 +7,8 @@
     "dark": "#1C1C1E"
   },
   "navigation": {
-    "links": [
-      {
-        "path": "/privacy",
-        "name": "Privacy"
-      }
+    "pages": [
+      "privacy"
     ]
   },
   "hideEditButton": true
