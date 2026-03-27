@@ -1,5 +1,5 @@
 {
-  "name": "Privacy Policy",
+  "name": "Legal Documents",
   "theme": "mint",
   "colors": {
     "primary": "#007AFF",
@@ -8,7 +8,8 @@
   },
   "navigation": {
     "pages": [
-      "privacy"
+      "privacy",
+      "terms"
     ]
   },
   "hideEditButton": true
