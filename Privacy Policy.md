@@ -14,23 +14,63 @@ We follow the principle of data minimization and collect only what is essential 
 
 - **We do not **collect government IDs, financial information, precise geolocation, or contacts.
 
-## Permissions We Use
-Our app may request access to:
-- **Camera**: for taking photos or scanning QR codes
-- **Storage**: for saving images and files
-- **Location**: for providing location-based services
-- **Notifications**: for sending important alerts
-
-You can enable or disable these permissions at any time in your device settings.
+## 3. Legal Basis for Processing (GDPR)
+Under GDPR, we process your data based on:
+- **Contractual Necessity:** To provide core features including real-time sync, task sharing, and linking devices via pairing codes.
+- **Consent:** For accessing your **Camera, Storage, Location**, and sending **Push Notifications**. You can withdraw consent at any time via your device settings.
+- **Legitimate Interests:**: To analyze crash logs, monitor app performance, and ensure the security of your shared data.
 
 ## How We Protect Your Data
-We use secure servers and encryption to protect your personal data.
-We do not sell your data to third parties.
+**Synchronization:** Real-time syncing of To-Do lists, task completion status, and anniversary dates between you and your paired partner.
 
-## Changes to This Policy
-We may update our Privacy Policy from time to time.
-We will notify you of changes by posting the new policy on this page.
+**Notifications:** Alerting you and your partner about upcoming anniversaries, urgent tasks, or updates made by your partner.
 
-## Contact Us
-If you have any questions, you can contact us:
-By email: your-email@example.com
+**Location-Based Services:**Providing location-specific reminders (e.g., alerting you of a task when you arrive at a specific place).
+
+**Media & Scanning:** Using the camera to scan pairing codes for easy linking and accessing storage to save or upload shared images.
+
+**Maintenance & Security:** Debugging, optimizing the user experience, and preventing unauthorized access to your private shared space.
+
+## Data Sharing and Disclosure
+**With Your Partner:** Your To-Do lists and Anniversaries are explicitly shared with the user you linked via the pairing code.
+
+**Service Providers:** We use trusted third-party services (e.g., Google Firebase) to host data. They are bound by data processing agreements to protect your info.
+
+**No Sale of Data:** We do not sell, rent, or trade your personal information to third parties for marketing purposes (compliant with CCPA "Do Not Sell" requirements).
+
+**Legal Requirements:** We may disclose data if required by a valid legal order (e.g., a subpoena).
+
+## International Data Transfers
+Your data may be stored on servers located outside of your home country (e.g., in the United States via Firebase). We ensure such transfers comply with legal frameworks like Standard Contractual Clauses (SCCs) to maintain a high level of protection.
+
+##Your Rights
+
+- Depending on your location, you have the following rights:
+
+- Right to Access/Know: Request a copy of the data we hold about you.
+
+- Right to Rectification: Correct inaccurate data.
+
+- Right to Erasure ("Right to be Forgotten"): Delete your account and all associated shared data.
+
+- Right to Withdraw Consent: Disable notifications or unlink your partner at any time.
+
+- Right to Non-Discrimination: We will not limit your service for exercising these rights.
+
+To exercise these rights, please contact us at the email below.
+
+##Data Retention and Security
+
+**Retention:** We keep your data as long as your account is active. If you delete your account, we will purge or anonymize your data within 30 days.
+
+**Security:** We use industry-standard encryption (SSL/TLS) for data in transit and at rest. Please keep your pairing code private to prevent unauthorized linking.
+
+##Children's Privacy
+Couple-list is not intended for children under the age of 13 (or 16 in certain EU jurisdictions). If we learn we have collected data from a child without parental consent, we will delete it immediately.
+
+##Changes to This Policy
+We may update this policy periodically. We will notify you of material changes via an in-app notice or by updating the "Last Updated" date.
+
+##Contact Us
+If you have any questions or wish to exercise your privacy rights, please contact us:
+Email: [你的联系邮箱]
