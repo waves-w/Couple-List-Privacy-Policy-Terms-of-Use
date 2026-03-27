@@ -5,40 +5,40 @@ This Privacy Policy explains how Couple-list ("we," "us," or "our") collects, us
 
 By using Couple-list, you agree to the collection and use of information in accordance with this policy.
 
-## Data We Collect
+## Permissions We Use
 We follow the principle of data minimization and collect only what is essential for the app's functionality:
-- **Account & Pairing Data:** To link two users, we generate a unique 8-digit pairing code. We store this connection to enable shared access.
-- **User-Generated Content:** To provide synchronization, we collect and store your To-Do lists (tasks, status), Anniversaries, and Reminders in a secure cloud database (Firebase).
-- **Notification Tokens:** With your permission, we collect device tokens to send alerts for shared task completions or anniversary reminders.
-- **Technical & Usage Data:** Device model, OS version, and crash logs (e.g., via Firebase Crashlytics) to improve app stability.
-
-- **We do not **collect government IDs, financial information, precise geolocation, or contacts.
+- **Camera:** Used solely for taking a real-time photo to set as your profile picture.
+- **Photo Library / Storage:** To provide synchronization, we collect and store your To-Do lists (tasks, status), Anniversaries, and Reminders in a secure cloud database (Firebase).
+- **Notifications:** Used for sending important alerts, such as anniversary reminders or task updates from your partner.
+- **We do not ** collect government IDs, financial information, precise geolocation, or contacts.
 
 ## Legal Basis for Processing (GDPR)
 Under GDPR, we process your data based on:
 - **Contractual Necessity:** To provide core features including real-time sync, task sharing, and linking devices via pairing codes.
-- **Consent:** For accessing your **Camera, Storage, Location**, and sending **Push Notifications**. You can withdraw consent at any time via your device settings.
+- **Consent:** For accessing your **Camera** (for profile photos), **Photo Library** (for profile photos and media sharing), and sending **Push Notifications**. You can withdraw consent at any time via your device settings.
 - **Legitimate Interests:**: To analyze crash logs, monitor app performance, and ensure the security of your shared data.
 
 ## How We Protect Your Data
-**Synchronization:** Real-time syncing of To-Do lists, task completion status, and anniversary dates between you and your paired partner.
+- **Synchronization:** Real-time syncing of To-Do lists, task completion status, and anniversary dates between you and your paired partner via Firebase.
 
-**Notifications:** Alerting you and your partner about upcoming anniversaries, urgent tasks, or updates made by your partner.
+- **Profile Personalization:** Allowing you to capture or select a photo to personalize your user profile.
 
-**Location-Based Services:** Providing location-specific reminders (e.g., alerting you of a task when you arrive at a specific place).
+- **Media Sharing & Storage:** Enabling you to select images from your photo library to securely transmit and share them with your partner. These images are stored in our secure cloud database (Firebase) to enable synchronization across linked devices.
 
-**Media & Scanning:** Using the camera to scan pairing codes for easy linking and accessing storage to save or upload shared images.
+- **Notifications:** Alerting you and your partner about upcoming anniversaries or updates made to your shared lists.
 
-**Maintenance & Security:** Debugging, optimizing the user experience, and preventing unauthorized access to your private shared space.
+- **Maintenance & Security:** Debugging, optimizing the user experience, and preventing unauthorized access to your private shared space.
 
 ## Data Sharing and Disclosure
-**With Your Partner:** Your To-Do lists and Anniversaries are explicitly shared with the user you linked via the pairing code.
+With Your Partner: Your To-Do lists, Anniversaries, Profile Pictures, and any Shared Images are explicitly synchronized and shared with the user you have linked via the unique 8-digit pairing code.
 
-**Service Providers:** We use trusted third-party services (e.g., Google Firebase) to host data. They are bound by data processing agreements to protect your info.
+- **Service Providers:** We use trusted third-party services (specifically Google Firebase) to host, store, and synchronize your data. Firebase is bound by data processing agreements to protect your information and complies with international security standards.
 
-**No Sale of Data:** We do not sell, rent, or trade your personal information to third parties for marketing purposes (compliant with CCPA "Do Not Sell" requirements).
+- **No Sale of Data:** We do not sell, rent, or trade your personal information or shared media to third parties for marketing purposes, fully complying with CCPA “Do Not Sell” requirements.
 
-**Legal Requirements:** We may disclose data if required by a valid legal order (e.g., a subpoena).
+- **Legal Requirements:** We may disclose data only if required by a valid legal order (e.g., a subpoena) or to comply with applicable laws and regulations.
+
+- **Anonymous/Aggregated Data:** We may use de-identified or aggregated technical data (such as crash frequency) to improve app performance, which cannot be used to identify you or your partner.
 
 ## International Data Transfers
 Your data may be stored on servers located outside of your home country (e.g., in the United States via Firebase). We ensure such transfers comply with legal frameworks like Standard Contractual Clauses (SCCs) to maintain a high level of protection.
