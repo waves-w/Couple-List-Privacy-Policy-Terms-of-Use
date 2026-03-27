@@ -17,10 +17,13 @@
             "Terms of Use"
         ]
     },
-    
     "search": {
-        "display": "none"
-      },
+        "mode": "none"
+    },
     "hideEditButton": true,
-    "hideFeedback": true
+    "hideFeedback": true,
+    "feedback": {
+        "suggestEdit": false,
+        "raiseIssue": false
+    }
 }
