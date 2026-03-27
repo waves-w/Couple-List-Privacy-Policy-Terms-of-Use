@@ -1,5 +1,6 @@
 {
   "name": "Privacy Policy",
+  "theme": "mint",
   "navigation": [
     {
       "path": "/privacy"
