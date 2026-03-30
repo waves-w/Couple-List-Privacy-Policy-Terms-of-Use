@@ -1,4 +1,8 @@
-
+---
+title: "Terms of Use"
+sidebarTitle: "Terms of Use"
+description: "Last updated: March 30, 2026"
+---
 ## Introduction
 
 This User Agreement (“Agreement”) is a legally binding contract between you (the “User”) and the provider of Couple-list (“we” or “us”). Please read this Agreement carefully before using the app. By downloading, installing, or using any part of Couple-list, you agree to be bound by all terms and conditions herein. If you do not agree, do not use the app.
