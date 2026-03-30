@@ -19,11 +19,10 @@
     },
     "search": {
         "mode": "none"
-    },
-    "hideEditButton": true,
-    "hideFeedback": true,
-    "feedback": {
-        "suggestEdit": false,
-        "raiseIssue": false
+      },
+      "chat": {
+        "enabled": false
+      },
+      "hideEditButton": true,
+      "hideFeedback": true
     }
-}
