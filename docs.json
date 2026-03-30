@@ -17,12 +17,9 @@
             "Terms of Use"
         ]
     },
-    "search": {
-        "mode": "none"
-      },
-      "chat": {
-        "enabled": false
-      },
-      "hideEditButton": true,
-      "hideFeedback": true
-    }
+    "footer": {
+        "socials": {}
+    },
+    "hideEditButton": true,
+    "hideFeedback": true
+}
