@@ -17,9 +17,11 @@
             "Terms of Use"
         ]
     },
-    "footer": {
-        "socials": {}
-    },
-    "hideEditButton": true,
-    "hideFeedback": true
-}
+    "search": {
+        "mode": "none"
+      },
+      "topbarLinks": [],
+      "hideEditButton": true,
+      "hideFeedback": true,
+      "tabs": []
+    }
