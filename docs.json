@@ -13,8 +13,8 @@
     },
     "navigation": {
         "pages": [
-            "Privacy Policy",
-            "Terms of Use"
+          "privacy",
+          "terms"
         ]
     },
     "search": {
