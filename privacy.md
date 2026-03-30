@@ -1,3 +1,7 @@
+---
+sidebarTitle: "Privacy Policy"
+description: "Last updated: March 30, 2026"
+---
 
 ## Introduction
 
